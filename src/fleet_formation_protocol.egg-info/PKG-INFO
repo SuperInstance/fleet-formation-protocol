@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fleet-formation-protocol
+Version: 0.1.0
+Summary: Fleet Formation Protocol — self-organizing agent groups for the Cocapn fleet
+Author-email: Oracle1 <oracle1@cocapn.ai>
+License: MIT
+Project-URL: Homepage, https://github.com/cocapn/fleet-formation-protocol
+Keywords: fleet,formation,agents,cocapn,plato,protocol
+Requires-Python: >=3.8

@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/fleet_formation_protocol/__init__.py
+src/fleet_formation_protocol/agent.py
+src/fleet_formation_protocol/auction.py
+src/fleet_formation_protocol/formation.py
+src/fleet_formation_protocol/message.py
+src/fleet_formation_protocol/protocol.py
+src/fleet_formation_protocol/types.py
+src/fleet_formation_protocol.egg-info/PKG-INFO
+src/fleet_formation_protocol.egg-info/SOURCES.txt
+src/fleet_formation_protocol.egg-info/dependency_links.txt
+src/fleet_formation_protocol.egg-info/top_level.txt
+tests/test_protocol.py

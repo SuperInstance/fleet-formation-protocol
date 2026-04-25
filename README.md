@@ -1,5 +1,8 @@
 # fleet-formation-protocol
 
+[![PyPI](https://img.shields.io/pypi/v/fleet-formation-protocol)](https://pypi.org/project/fleet-formation-protocol/) [![Python](https://img.shields.io/pypi/pyversions/fleet-formation-protocol)](https://pypi.org/project/fleet-formation-protocol/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Self-organizing agent groups for the Cocapn fleet.
 
 Agents don't wait for orders — they self-organize into formations based on task requirements. Like a school of fish that forms shapes without a leader.
